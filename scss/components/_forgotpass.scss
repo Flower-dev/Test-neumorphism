@@ -1,0 +1,15 @@
+.forgot-pass {
+    text-align: left;
+    margin: 10px 0 10px 5px;
+
+    a{
+        font-size: 16px;
+        color: #3498db;
+        text-decoration: none;
+
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+}
+  
