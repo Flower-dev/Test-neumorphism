@@ -32,8 +32,8 @@ button {
   border-radius: 25px;
   box-shadow: 2px 2px 5px #babecc, -5px -5px 10px #ffffff73;
 }
-button:focus {
-  color: pink;
+button:hover {
+  color: #6D6875;
   box-shadow: inset 2px 2px 5px #babecc, inset -5px -5px 10px #ffffff73;
 }
 
@@ -47,7 +47,7 @@ button:focus {
   text-decoration: none;
 }
 .signup a:hover {
-  text-decoration: underline;
+  font-weight: bolder;
 }
 
 .content {
@@ -111,11 +111,11 @@ button:focus {
 }
 .forgot-pass a {
   font-size: 16px;
-  color: #3498db;
+  color: #B5838D;
   text-decoration: none;
 }
 .forgot-pass a:hover {
-  text-decoration: underline;
+  font-weight: bolder;
 }
 
 /*# sourceMappingURL=custom.css.map */
