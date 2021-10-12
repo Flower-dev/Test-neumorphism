@@ -39,7 +39,7 @@ button:hover {
 
 .signup {
   font-size: 16px;
-  color: #595959;
+  color: #0D0D0D;
   margin: 10px 0;
 }
 .signup a {
@@ -94,14 +94,14 @@ button:hover {
   position: absolute;
   width: 50px;
   line-height: 50px;
-  color: #595959;
+  color: #0D0D0D;
 }
 .content .field label {
   position: absolute;
   top: 50%;
   left: 45px;
   pointer-events: none;
-  color: #666666;
+  color: #0D0D0D;
   transform: translateY(-50%);
 }
 
@@ -111,7 +111,7 @@ button:hover {
 }
 .forgot-pass a {
   font-size: 16px;
-  color: #B5838D;
+  color: #93A603;
   text-decoration: none;
 }
 .forgot-pass a:hover {
